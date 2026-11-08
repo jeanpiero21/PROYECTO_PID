@@ -1,0 +1,7 @@
+*.asv
+*.mex*
+*.autosave
+slprj/
+
+# dataset completo (no versionar)
+data/carpk_raw/
